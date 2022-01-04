@@ -135,7 +135,7 @@ public class Main {
                 a = sc.nextDouble();
 
                 // Calculates and prints out converted result
-                System.out.println(a + " centimeters = " + (a * 2.54) + " inches");
+                System.out.println(a + " centimeters = " + (a / 2.54) + " inches");
             // Inches to centimeters
             } else if (convertOption == 4) {
                 // Inch value scanner
@@ -144,7 +144,7 @@ public class Main {
                 a = sc.nextDouble();
 
                 // Calculates and prints out converted result
-                System.out.println(a + " inches = " + (a / 2.54) + " centimeters");
+                System.out.println(a + " inches = " + (a * 2.54) + " centimeters");
             } else {
                 System.out.println("Invalid option. That's not very cool of you.");
             }
