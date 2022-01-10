@@ -25,13 +25,13 @@ public class TreeSetExample {
         System.out.println();
 
         // Loops through 'items' var
-        //  adds every item user inputs to the arrayList
+        //  adds every unique item user input to the treeSet
         for (int i = 0; i < items; i++){
             System.out.println("Enter item #" + (i+1));
             treeSet.add(sc.nextLine());
         }
 
-        // Prints out the arrayList
+        // Prints out the treeSet
         System.out.println("\nYour unique list:");
         System.out.println(treeSet);
     }
