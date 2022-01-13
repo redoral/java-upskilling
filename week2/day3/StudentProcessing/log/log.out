@@ -1,0 +1,76 @@
+2022-01-12 23:00:40 DEBUG ProcessStudent:15 - ProcessStudent - process() has started
+2022-01-12 23:00:40 DEBUG ProcessStudent:17 - Trying to open input.dat file
+2022-01-12 23:00:40 DEBUG ProcessStudent:19 - Trying to open output.dat file
+2022-01-12 23:00:40 INFO  ProcessStudent:26 - Looping through all records existing in the input file
+2022-01-12 23:00:40 DEBUG ProcessStudent:29 - 0 position student id is 101
+2022-01-12 23:00:40 DEBUG ProcessStudent:42 - Saved 101 into output file
+2022-01-12 23:00:40 DEBUG ProcessStudent:29 - 1 position student id is 102
+2022-01-12 23:00:40 DEBUG ProcessStudent:42 - Saved 102 into output file
+2022-01-12 23:00:40 DEBUG ProcessStudent:29 - 2 position student id is 103
+2022-01-12 23:00:40 DEBUG ProcessStudent:42 - Saved 103 into output file
+2022-01-12 23:00:40 INFO  ProcessStudent:44 - Student processing has completed
+2022-01-12 23:02:53 DEBUG ProcessStudent:15 - ProcessStudent - process() has started
+2022-01-12 23:02:53 DEBUG ProcessStudent:17 - Trying to open input.dat file
+2022-01-12 23:02:53 DEBUG ProcessStudent:19 - Trying to open output.dat file
+2022-01-12 23:02:53 INFO  ProcessStudent:26 - Looping through all records existing in the input file
+2022-01-12 23:02:53 DEBUG ProcessStudent:29 - 0 position student id is 101
+2022-01-12 23:02:53 DEBUG ProcessStudent:42 - Saved 101 into output file
+2022-01-12 23:04:27 DEBUG ProcessStudent:15 - ProcessStudent - process() has started
+2022-01-12 23:04:27 DEBUG ProcessStudent:17 - Trying to open input.dat file
+2022-01-12 23:04:27 DEBUG ProcessStudent:19 - Trying to open output.dat file
+2022-01-12 23:04:27 INFO  ProcessStudent:26 - Looping through all records existing in the input file
+2022-01-12 23:04:27 DEBUG ProcessStudent:29 - 0 position student id is 101
+2022-01-12 23:04:27 DEBUG ProcessStudent:42 - Saved 101 into output file
+2022-01-12 23:10:17 DEBUG ProcessStudent:16 - ProcessStudent - process() has started
+2022-01-12 23:10:17 DEBUG ProcessStudent:18 - Trying to open input.dat file
+2022-01-12 23:10:17 DEBUG ProcessStudent:20 - Trying to open output.dat file
+2022-01-12 23:10:17 INFO  ProcessStudent:27 - Looping through all records existing in the input file
+2022-01-12 23:10:17 DEBUG ProcessStudent:31 - 0 position student id is 101
+2022-01-12 23:10:17 DEBUG ProcessStudent:44 - Saved 101 into output file
+2022-01-12 23:10:17 ERROR ProcessStudent:47 - For input string: ""66""
+2022-01-12 23:10:17 DEBUG ProcessStudent:31 - 2 position student id is 103
+2022-01-12 23:10:17 DEBUG ProcessStudent:44 - Saved 103 into output file
+2022-01-12 23:10:17 INFO  ProcessStudent:51 - Student processing has completed
+2022-01-12 23:13:30 DEBUG ProcessStudent:16 - ProcessStudent - process() has started
+2022-01-12 23:13:30 DEBUG ProcessStudent:18 - Trying to open input.dat file
+2022-01-12 23:13:30 DEBUG ProcessStudent:20 - Trying to open output.dat file
+2022-01-12 23:13:30 INFO  ProcessStudent:27 - Looping through all records existing in the input file
+2022-01-12 23:13:30 DEBUG ProcessStudent:31 - 0 position student id is 101
+2022-01-12 23:13:30 DEBUG ProcessStudent:44 - Saved 101 into output file
+2022-01-12 23:13:30 ERROR ProcessStudent:47 - Problem occurred while processing the data at the line : 1 - For input string: ""66""
+2022-01-12 23:13:30 DEBUG ProcessStudent:31 - 2 position student id is 103
+2022-01-12 23:13:30 DEBUG ProcessStudent:44 - Saved 103 into output file
+2022-01-12 23:13:30 INFO  ProcessStudent:51 - Student processing has completed
+2022-01-12 23:14:15 DEBUG ProcessStudent:16 - ProcessStudent - process() has started
+2022-01-12 23:14:15 DEBUG ProcessStudent:18 - Trying to open input.dat file
+2022-01-12 23:14:15 DEBUG ProcessStudent:20 - Trying to open output.dat file
+2022-01-12 23:14:15 INFO  ProcessStudent:27 - Looping through all records existing in the input file
+2022-01-12 23:14:15 DEBUG ProcessStudent:31 - 0 position student id is 101
+2022-01-12 23:14:15 DEBUG ProcessStudent:44 - Saved 101 into output file
+2022-01-12 23:14:15 ERROR ProcessStudent:47 - Problem occurred while processing the data at the line : 1 - 4
+2022-01-12 23:14:15 DEBUG ProcessStudent:31 - 2 position student id is 103
+2022-01-12 23:14:15 DEBUG ProcessStudent:44 - Saved 103 into output file
+2022-01-12 23:14:15 INFO  ProcessStudent:51 - Student processing has completed
+2022-01-12 23:15:13 DEBUG ProcessStudent:16 - ProcessStudent - process() has started
+2022-01-12 23:15:13 DEBUG ProcessStudent:18 - Trying to open input.dat file
+2022-01-12 23:15:13 DEBUG ProcessStudent:20 - Trying to open output.dat file
+2022-01-12 23:15:13 INFO  ProcessStudent:27 - Looping through all records existing in the input file
+2022-01-12 23:15:13 DEBUG ProcessStudent:31 - 0 position student id is 101
+2022-01-12 23:15:13 DEBUG ProcessStudent:44 - Saved 101 into output file
+2022-01-12 23:15:13 ERROR ProcessStudent:47 - Problem occurred while processing the data at the line : 1 - Insufficient no values given in the CSV : 4
+2022-01-12 23:15:13 DEBUG ProcessStudent:31 - 2 position student id is 103
+2022-01-12 23:15:13 DEBUG ProcessStudent:44 - Saved 103 into output file
+2022-01-12 23:15:13 INFO  ProcessStudent:51 - Student processing has completed
+2022-01-12 23:25:20 DEBUG ProcessStudent:16 - ProcessStudent - process() has started
+2022-01-12 23:25:20 DEBUG ProcessStudent:18 - Trying to open input.dat file
+2022-01-12 23:25:20 DEBUG ProcessStudent:20 - Trying to open output.dat file
+2022-01-12 23:25:20 INFO  ProcessStudent:28 - Looping through all records existing in the input file
+2022-01-12 23:25:20 DEBUG ProcessStudent:32 - 0 position student id is 101
+2022-01-12 23:25:20 DEBUG ProcessStudent:45 - Saved 101 into output file
+2022-01-12 23:25:20 ERROR ProcessStudent:48 - Problem occurred while processing the data at the line : 1 - For input string: ""66""
+2022-01-12 23:25:20 DEBUG ProcessStudent:32 - 2 position student id is 103
+2022-01-12 23:25:20 DEBUG ProcessStudent:45 - Saved 103 into output file
+2022-01-12 23:25:20 ERROR ProcessStudent:48 - Problem occurred while processing the data at the line : 3 - Insufficient no values given in the CSV : 4
+2022-01-12 23:25:20 DEBUG ProcessStudent:32 - 4 position student id is 105
+2022-01-12 23:25:20 DEBUG ProcessStudent:45 - Saved 105 into output file
+2022-01-12 23:25:20 INFO  ProcessStudent:53 - Student processing has completed
