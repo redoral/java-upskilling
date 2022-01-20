@@ -1,5 +1,6 @@
 package com.revature.beans;
 
+// employee entity
 public class Employee {
 
     int id;

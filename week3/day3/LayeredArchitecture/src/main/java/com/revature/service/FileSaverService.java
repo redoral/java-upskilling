@@ -2,6 +2,7 @@ package com.revature.service;
 
 import com.revature.beans.Employee;
 
+// service for saving files
 public class FileSaverService implements Saver {
 
     String filename;
@@ -21,9 +22,9 @@ public class FileSaverService implements Saver {
     public FileSaverService() {
     }
 
+
     @Override
     public void save(Employee employee) {
-        // perform operations to save Employee object in the file
         System.out.println("Saving employee object in the file");
         System.out.println("The file name: "+filename);
         System.out.println("Employee is: "+employee);
