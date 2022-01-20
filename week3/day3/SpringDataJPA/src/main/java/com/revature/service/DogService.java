@@ -1,5 +1,6 @@
 package com.revature.service;
 
+import com.revature.entity.Person;
 import com.revature.exception.DogNotFoundException;
 import com.revature.entity.Dog;
 import com.revature.repository.DogRepository;
@@ -27,6 +28,11 @@ public class DogService {
     public Dog find(Integer id) throws DogNotFoundException {
         dogRepository.findById(id).orElseThrow(() -> new DogNotFoundException("Dog with id: " + id + " cannot be found."));
         return dogRepository.findById(id).get();
+    }
+
+    // find by person
+    public List<Dog> findByPerson(Person person){
+        return dogRepository.findByPerson(person);
     }
 
     // save a new dog
